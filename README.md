@@ -13,4 +13,4 @@ This is the second project of the fulltime Software Engineering program at Tripl
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I think that adding more animations like the circle one would make the project look better. 
