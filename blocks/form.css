@@ -12,7 +12,7 @@ max-width: 385px;
 .form__label {
   display:block;
   margin-bottom: 32px; 
-  font-family: Inter;
+  font-family: "Inter", "Arial", sans-serif;
  font-style: normal;
  font-weight: 500;
  font-size: 16px;
@@ -24,7 +24,7 @@ max-width: 385px;
   display: block;
   margin-top: 8px;
   width: 100%;
-  padding: 15px; 
+  padding: 15px 20px; 
   font-family: Inter;
  font-style: normal;
  font-weight: normal;
@@ -57,7 +57,9 @@ max-width: 385px;
 }
 
 .form__checkbox {
-
+  width: 20px;
+  height: 20px;
+  border-radius: 2px; 
 }
 
 .form__label_type_checkbox { 
